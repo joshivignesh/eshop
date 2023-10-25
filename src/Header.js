@@ -27,6 +27,10 @@ function Header() {
             <ShoppingBasketIcon fontSize="large" />
             <span  class="nav__itemLineTwo">0</span> 
           </div>  
+          <div className='nav__item'>
+            <ShoppingBasketIcon fontSize="large" />
+            <span  class="nav__itemLineTwo">0</span> 
+          </div> 
         </div>
 
 
